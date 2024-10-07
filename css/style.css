@@ -6,7 +6,6 @@
 .skills-section h2 {
     margin-bottom: 20px;
     font-size: 24px;
-    color: #666;
     font-weight: 100;
 }
 
@@ -15,14 +14,12 @@
     display: block;
     width: 300px;
     height: 0.5px;
-    background-color: #f8f8f8;
     margin: 15px auto;
 }
 
 .skill-box {
-    background-color: #f8f8f8;
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,8 +27,7 @@
 }
 
 .skill-box i {
-    font-size: 48px;
-    color: #e6950a;
+    font-size: 64px;
 }
 
 .skill-name {
